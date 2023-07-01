@@ -1,17 +1,16 @@
-### Olá, sou Marcelo!
-## Bem vido ao meu perfirl!
+# Olá, sou Marcelo!
 
-<!--
-**marcelohlp/marcelohlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bem vindo ao meu perfil!
 
-Here are some ideas to get you started:
+Sou aluno de Análise e Desenvolvimento de Sistemas (ADS) 
+\
+Apesar de possuir maior conhecimento em front-end e suas linguagens, atualmente prefiro dedicar os meus estudos no back-end e sua lógica, 
+sendo um grande entusiasta de inteligência artificial e apaixonado por jogos eletrônicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens de programação:
+* Python
+* HTML
+* CSS
+* JavaScript
+
+### Fique a vontade para explorar meus projeto!
