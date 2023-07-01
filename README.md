@@ -13,4 +13,4 @@ sendo um grande entusiasta de inteligência artificial e apaixonado por jogos el
 * CSS
 * JavaScript
 
-### Fique a vontade para explorar meus projeto!
+### Fique a vontade para explorar meus projetos!
