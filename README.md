@@ -9,6 +9,7 @@ sendo um grande entusiasta de inteligência artificial e apaixonado por jogos el
 
 ## Linguagens de programação:
 * Python
+* Java
 * HTML
 * CSS
 * JavaScript
