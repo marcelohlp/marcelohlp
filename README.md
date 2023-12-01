@@ -14,7 +14,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" heigth="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" heigth="40"/>
           
-## Contatos:
+## Contato:
 
 <div>
   <a href="https://www.linkedin.com/in/marcelo-hpaschoal/"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
